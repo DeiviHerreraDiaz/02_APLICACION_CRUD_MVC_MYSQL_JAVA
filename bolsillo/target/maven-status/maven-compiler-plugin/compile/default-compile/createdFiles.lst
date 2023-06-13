@@ -1,0 +1,10 @@
+model\UsuarioNequiVO.class
+model\BolsilloDAO.class
+controller\Bolsillo.class
+controller\UsuarioNequi.class
+model\UsuarioDaviplataVO.class
+model\UsuarioNequiDAO.class
+controller\Usuario.class
+model\BolsilloVO.class
+model\Conexion.class
+model\UsuarioDaviplataDAO.class
